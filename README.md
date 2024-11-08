@@ -1,4 +1,9 @@
-# Generative AI: Generate Image and Story
+# Generative AI Project: Generate Image and Story
+  - Image generation and text generation/extraction/analysis using Gen AI APIs
+
+## App UI/UX
+
+<img width="999" alt="Screenshot 2024-11-08 at 1 55 39 PM" src="https://github.com/user-attachments/assets/0f9e6d92-17a1-43de-a6a7-b006fe152e4f">
 
 ## Tech stack used:
 - React
